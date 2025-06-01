@@ -9,7 +9,7 @@
   <info :labels="labels" :items="items" />
 
   <figma
-    :link="'https://embed.figma.com/design/IkIz0LTIGAJKkmJ3rBjzuE/One?node-id=2032-3265&embed-host=share&hide-ui=1'"
+    :link="'https://embed.figma.com/design/1R5sD07qmGLGCgBvtDQY79/Portfolio?node-id=0-1&embed-host=share&hide-ui=1'"
   />
 
   <stage
